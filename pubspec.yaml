@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  permission_handler: ^8.2.5
+  permission_handler:
   pedantic: ^1.11.0
 
 dev_dependencies:
